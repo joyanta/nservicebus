@@ -1,0 +1,387 @@
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\FireOnWheels.Rest.dll.config
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\FireOnWheels.Rest.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\FireOnWheels.Rest.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Antlr3.Runtime.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\EntityFramework.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Microsoft.Data.Edm.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Microsoft.Data.OData.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Newtonsoft.Json.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\NServiceBus.Core.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Spatial.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Helpers.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Mvc.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Optimization.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Providers.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Razor.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.WebPages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\WebGrease.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\NServiceBus.Core.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\NServiceBus.Core.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\EntityFramework.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Newtonsoft.Json.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Helpers.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Mvc.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Razor.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.WebPages.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Microsoft.Data.Edm.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Microsoft.Data.OData.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Spatial.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\de\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\es\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\fr\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\it\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ja\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ko\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ru\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\obj\Debug\FireOnWheels.Rest.csprojResolveAssemblyReference.cache
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\obj\Debug\FireOnWheels.Rest.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\obj\Debug\FireOnWheels.Rest.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\FireOnWheels.Rest.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\FireOnWheels.Rest.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\FireOnWheels.Rest.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\Antlr3.Runtime.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\EntityFramework.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\Microsoft.Data.Edm.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\Microsoft.Data.OData.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\Newtonsoft.Json.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Net.Http.Formatting.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Spatial.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.Helpers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.Http.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.Http.WebHost.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.Optimization.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.Providers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.WebPages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\WebGrease.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\EntityFramework.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\Newtonsoft.Json.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Net.Http.Formatting.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.Helpers.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.Http.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.Http.WebHost.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.WebPages.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\Microsoft.Data.Edm.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\Microsoft.Data.OData.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\System.Spatial.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\de\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\es\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\fr\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\it\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\ja\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\ko\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\ru\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\obj\Debug\FireOnWheels.Rest.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\obj\Debug\FireOnWheels.Rest.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\obj\Debug\FireOnWheels.Rest.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\obj\Debug\FireOnWheels.Rest.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\obj\Debug\FireOnWheels.Rest.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\DispatchService\obj\Debug\FireOnWheels.Rest.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\FireOnWheels.Rest.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\FireOnWheels.Rest.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\FireOnWheels.Rest.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\Antlr3.Runtime.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\Autofac.Integration.WebApi.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\EntityFramework.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\Microsoft.Data.Edm.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\Microsoft.Data.OData.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\Newtonsoft.Json.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\NServiceBus.ObjectBuilder.Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Net.Http.Formatting.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Spatial.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.Helpers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.Http.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.Http.WebHost.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.Optimization.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.Providers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.WebPages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\WebGrease.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\Autofac.Integration.WebApi.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\NServiceBus.ObjectBuilder.Autofac.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\NServiceBus.ObjectBuilder.Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\EntityFramework.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\Newtonsoft.Json.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Net.Http.Formatting.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.Helpers.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.Http.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.Http.WebHost.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.WebPages.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\Microsoft.Data.Edm.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\Microsoft.Data.OData.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\System.Spatial.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\de\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\es\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\fr\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\it\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\ja\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\ko\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\ru\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\obj\Debug\FireOnWheels.Rest.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\obj\Debug\FireOnWheels.Rest.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\DispatchService\obj\Debug\FireOnWheels.Rest.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\FireOnWheels.Rest.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\FireOnWheels.Rest.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\FireOnWheels.Rest.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\Antlr3.Runtime.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\Autofac.Integration.WebApi.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\EntityFramework.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\Microsoft.Data.Edm.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\Microsoft.Data.OData.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\Newtonsoft.Json.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\NServiceBus.ObjectBuilder.Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Net.Http.Formatting.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Spatial.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.Helpers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.Http.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.Http.WebHost.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.Optimization.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.Providers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.WebPages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\WebGrease.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\Autofac.Integration.WebApi.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\NServiceBus.ObjectBuilder.Autofac.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\NServiceBus.ObjectBuilder.Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\EntityFramework.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\Newtonsoft.Json.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Net.Http.Formatting.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.Helpers.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.Http.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.Http.WebHost.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.WebPages.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\Microsoft.Data.Edm.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\Microsoft.Data.OData.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\System.Spatial.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\de\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\es\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\fr\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\it\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\ja\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\ko\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\ru\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\obj\Debug\FireOnWheels.Rest.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\obj\Debug\FireOnWheels.Rest.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\DispatchService\obj\Debug\FireOnWheels.Rest.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\FireOnWheels.Rest.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\FireOnWheels.Rest.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\FireOnWheels.Rest.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\Antlr3.Runtime.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\EntityFramework.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\Microsoft.Data.Edm.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\Microsoft.Data.OData.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\Newtonsoft.Json.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\NServiceBus.ObjectBuilder.Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Net.Http.Formatting.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Spatial.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Helpers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Http.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Http.WebHost.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Optimization.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Providers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.WebPages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\WebGrease.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\Autofac.Integration.WebApi.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\NServiceBus.ObjectBuilder.Autofac.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\NServiceBus.ObjectBuilder.Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\EntityFramework.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\Newtonsoft.Json.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Net.Http.Formatting.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Helpers.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Http.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Http.WebHost.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.WebPages.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\Microsoft.Data.Edm.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\Microsoft.Data.OData.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Spatial.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\de\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\es\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\fr\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\it\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\ja\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\ko\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\ru\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\obj\Debug\FireOnWheels.Rest.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\obj\Debug\FireOnWheels.Rest.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\obj\Debug\FireOnWheels.Rest.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\Autofac.Integration.WebApi.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\EntityFramework.SqlServer.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Net.Http.Extensions.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Net.Http.Primitives.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\Antlr3.Runtime.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\EntityFramework.SqlServer.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Net.Http.Extensions.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Net.Http.Primitives.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Optimization.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\bin\System.Web.Providers.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\DispatchService\obj\Debug\FireOnWheels.Rest.csproj.App.config

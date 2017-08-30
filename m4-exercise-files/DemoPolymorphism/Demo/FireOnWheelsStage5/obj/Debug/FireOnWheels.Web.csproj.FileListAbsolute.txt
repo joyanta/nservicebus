@@ -1,0 +1,347 @@
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\FireOnWheels.Web.dll.config
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\FireOnWheels.Web.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\FireOnWheels.Web.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\Antlr3.Runtime.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\EntityFramework.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\Newtonsoft.Json.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\NServiceBus.Core.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\System.Web.Mvc.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\System.Web.Optimization.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\System.Web.Providers.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\System.Web.Razor.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\System.Web.WebPages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\WebGrease.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\NServiceBus.Core.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\NServiceBus.Core.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\EntityFramework.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\Newtonsoft.Json.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\System.Web.Mvc.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\System.Web.Razor.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\System.Web.WebPages.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\obj\Debug\FireOnWheels.Web.csprojResolveAssemblyReference.cache
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\obj\Debug\FireOnWheels.Web.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheelsStage3\obj\Debug\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\FireOnWheels.Web.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\Antlr3.Runtime.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\EntityFramework.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\Newtonsoft.Json.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Net.Http.Formatting.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Http.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Http.WebHost.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Optimization.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Providers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.WebPages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\WebGrease.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\EntityFramework.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\Newtonsoft.Json.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Net.Http.Formatting.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Http.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Http.WebHost.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.WebPages.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\obj\Debug\FireOnWheels.Web.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\obj\Debug\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\obj\Debug\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\obj\Debug\FireOnWheels.Web.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\obj\Debug\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\obj\Debug\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\FireOnWheels.Web.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\Antlr3.Runtime.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\Autofac.Integration.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\EntityFramework.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\Newtonsoft.Json.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\NServiceBus.ObjectBuilder.Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Net.Http.Formatting.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Helpers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Http.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Http.WebHost.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Optimization.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Providers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.WebPages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\WebGrease.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\Autofac.Integration.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\NServiceBus.ObjectBuilder.Autofac.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\NServiceBus.ObjectBuilder.Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Helpers.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.WebPages.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\EntityFramework.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\Newtonsoft.Json.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Net.Http.Formatting.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Http.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheelsStage3\bin\System.Web.Http.WebHost.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\FireOnWheels.Web.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\Antlr3.Runtime.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\Autofac.Integration.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\EntityFramework.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\Newtonsoft.Json.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\NServiceBus.ObjectBuilder.Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Net.Http.Formatting.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.Helpers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.Http.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.Http.WebHost.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.Optimization.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.Providers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.WebPages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\WebGrease.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\Autofac.Integration.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\NServiceBus.ObjectBuilder.Autofac.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\NServiceBus.ObjectBuilder.Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.Helpers.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.WebPages.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\EntityFramework.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\Newtonsoft.Json.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Net.Http.Formatting.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.Http.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\bin\System.Web.Http.WebHost.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\obj\Debug\FireOnWheels.Web.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\obj\Debug\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheelsStage3\obj\Debug\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\FireOnWheels.Web.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\Antlr3.Runtime.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\Autofac.Integration.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\EntityFramework.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\Newtonsoft.Json.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\NServiceBus.ObjectBuilder.Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Net.Http.Formatting.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.Helpers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.Http.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.Http.WebHost.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.Optimization.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.Providers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.WebPages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\WebGrease.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\Autofac.Integration.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\NServiceBus.ObjectBuilder.Autofac.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\NServiceBus.ObjectBuilder.Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.Helpers.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.WebPages.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\EntityFramework.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\Newtonsoft.Json.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Net.Http.Formatting.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.Http.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\bin\System.Web.Http.WebHost.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\obj\Debug\FireOnWheels.Web.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\obj\Debug\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2\FireOnWheelsStage4\obj\Debug\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\obj\Debug\FireOnWheels.Web.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\obj\Debug\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\obj\Debug\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\FireOnWheels.Web.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\Antlr3.Runtime.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\Autofac.Integration.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\EntityFramework.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\Newtonsoft.Json.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\NServiceBus.Callbacks.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\NServiceBus.ObjectBuilder.Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Net.Http.Formatting.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.Helpers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.Http.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.Http.WebHost.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.Optimization.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.Providers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.WebPages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\WebGrease.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\Autofac.Integration.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\NServiceBus.Callbacks.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\NServiceBus.Callbacks.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\NServiceBus.ObjectBuilder.Autofac.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\NServiceBus.ObjectBuilder.Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.Helpers.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.WebPages.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\EntityFramework.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\Newtonsoft.Json.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Net.Http.Formatting.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.Http.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheelsStage5\bin\System.Web.Http.WebHost.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\FireOnWheels.Web.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\Antlr3.Runtime.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\Autofac.Integration.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\EntityFramework.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\Newtonsoft.Json.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\NServiceBus.Callbacks.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\NServiceBus.ObjectBuilder.Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Net.Http.Formatting.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.Helpers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.Http.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.Http.WebHost.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.Optimization.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.Providers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.WebPages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\WebGrease.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\Autofac.Integration.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\NServiceBus.Callbacks.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\NServiceBus.Callbacks.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\NServiceBus.ObjectBuilder.Autofac.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\NServiceBus.ObjectBuilder.Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.Helpers.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.WebPages.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\EntityFramework.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\Newtonsoft.Json.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Net.Http.Formatting.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.Http.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\bin\System.Web.Http.WebHost.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\obj\Debug\FireOnWheels.Web.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\obj\Debug\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheelsStage5\obj\Debug\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\FireOnWheels.Web.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\FireOnWheels.Web.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\Antlr3.Runtime.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\Autofac.Integration.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\EntityFramework.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\Newtonsoft.Json.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\NServiceBus.Callbacks.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\NServiceBus.ObjectBuilder.Autofac.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Net.Http.Formatting.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.Helpers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.Http.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.Http.WebHost.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.Mvc.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.Optimization.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.Providers.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.WebPages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\WebGrease.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\Autofac.Integration.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\NServiceBus.Callbacks.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\NServiceBus.Callbacks.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\NServiceBus.ObjectBuilder.Autofac.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\NServiceBus.ObjectBuilder.Autofac.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.Helpers.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.Mvc.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.WebPages.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\EntityFramework.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\Newtonsoft.Json.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Net.Http.Formatting.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.Http.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\bin\System.Web.Http.WebHost.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\obj\Debug\FireOnWheels.Web.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\obj\Debug\FireOnWheels.Web.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheelsStage5\obj\Debug\FireOnWheels.Web.pdb

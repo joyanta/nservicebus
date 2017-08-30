@@ -1,0 +1,95 @@
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.dll.config
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\bin\Debug\NServiceBus.Core.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\bin\Debug\NServiceBus.Host.exe
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\bin\Debug\NServiceBus.Core.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\bin\Debug\NServiceBus.Core.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\bin\Debug\NServiceBus.Host.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\bin\Debug\NServiceBus.Host.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.csprojResolveAssemblyReference.cache
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Host.exe
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Host.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Host.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebusUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Host.exe
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Host.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Host.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\1\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\bin\Debug\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\bin\Debug\NServiceBus.Host.exe
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\bin\Debug\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\bin\Debug\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\bin\Debug\NServiceBus.Host.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\bin\Debug\NServiceBus.Host.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2New\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\bin\Debug\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\bin\Debug\NServiceBus.Host.exe
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\bin\Debug\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\bin\Debug\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\bin\Debug\NServiceBus.Host.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\bin\Debug\NServiceBus.Host.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\2 - Copy\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.dll.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\bin\Debug\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\bin\Debug\NServiceBus.Host.exe
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\bin\Debug\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\bin\Debug\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\bin\Debug\NServiceBus.Host.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\bin\Debug\NServiceBus.Host.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod2StartingWithNServiceBus\Demo\Demo\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheels.Order\bin\Debug\NServiceBus.Core.dll
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheels.Order\bin\Debug\NServiceBus.Core.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheels.Order\bin\Debug\NServiceBus.Core.xml
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.pdb
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.exe.config
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheels.Order\bin\Debug\FireOnWheels.Order.exe
+C:\Users\Roland\Dropbox\Pluralsight\3-NSBUpdate\Mod4Advanced\Demo\DemoPolymorphism\Demo\FireOnWheels.Order\obj\Debug\FireOnWheels.Order.exe
